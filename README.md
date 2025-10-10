@@ -1,3 +1,4 @@
+![image](https://tornado.cash/tw.png)
 # Tornado Cash Privacy Solution [![build status](https://github.com/tornadocash/tornado-core/actions/workflows/build.yml/badge.svg)](https://github.com/tornadocash/tornado-core/actions/workflows/build.yml) [![Coverage Status](https://coveralls.io/repos/github/tornadocash/tornado-core/badge.svg?branch=master)](https://coveralls.io/github/tornadocash/tornado-core?branch=master)
 
 Tornado Cash is a non-custodial Ethereum and ERC20 privacy solution based on zkSNARKs. It improves transaction privacy by breaking the on-chain link between the recipient and destination addresses. It uses a smart contract that accepts ETH deposits that can be withdrawn by a different address. Whenever ETH is withdrawn by the new address, there is no way to link the withdrawal to the deposit, ensuring complete privacy.
@@ -33,6 +34,20 @@ During the audit, no critical issues were found and all outstanding issues were 
 - Zk-SNARK circuits audit https://tornado.cash/audits/TornadoCash_circuit_audit_ABDK.pdf
 
 Underlying circomlib dependency is currently being audited, and the team already published most of the fixes for found issues
+
+## Resources & Further Reading
+
+- [Tornado Cash: a reference manual for developers](https://zk.bearblog.dev/tornado-cash-manual/)
+- [RareSkills ZK Book | Ultimate Zero Knowledge Proof Tutorial](https://rareskills.io/zk-book)
+- [How Tornado Cash Works (Line by Line for Devs)](https://rareskills.io/post/how-does-tornado-cash-work)
+- [Breaking Down Tornado Cash](https://learn.0xparc.org/materials/circom/learning-group-1/breaking-down-tornado/)
+
+## 🔗 Official Links
+
+- [Official Tornado Cash UI](https://tornado.cash)
+- [Smart Contract](https://etherscan.io/address/0xd90e2f925DA726b50C4Ed8D0Fb90Ad053324F31b)
+- [Telegram Channel](https://t.me/TornadoCash)
+- [Medium Articles](https://tornado-cash.medium.com)
 
 ## Requirements
 
