@@ -34,6 +34,20 @@ During the audit, no critical issues were found and all outstanding issues were 
 
 Underlying circomlib dependency is currently being audited, and the team already published most of the fixes for found issues
 
+## Resources & Further Reading
+
+- [Tornado Cash: a reference manual for developers](https://zk.bearblog.dev/tornado-cash-manual/)
+- [RareSkills ZK Book | Ultimate Zero Knowledge Proof Tutorial](https://rareskills.io/zk-book)
+- [How Tornado Cash Works (Line by Line for Devs)](https://rareskills.io/post/how-does-tornado-cash-work)
+- [Breaking Down Tornado Cash](https://learn.0xparc.org/materials/circom/learning-group-1/breaking-down-tornado/)
+
+## 🔗 Official Links
+
+- [Official Tornado Cash UI](https://tornado.cash)
+- [Smart Contract](https://etherscan.io/address/0xd90e2f925DA726b50C4Ed8D0Fb90Ad053324F31b)
+- [Telegram Channel](https://t.me/TornadoCash)
+- [Medium Articles](https://tornado-cash.medium.com)
+
 ## Requirements
 
 1. `node v11.15.0`
